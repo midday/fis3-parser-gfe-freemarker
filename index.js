@@ -23,7 +23,7 @@ function mockData(file) {
             fis.log.warn('mock data parse error:' + mockFilePath);
         }
     } else {
-        fis.log.warn('not found mock data file:' + mockFilePath);
+        // fis.log.warn('not found mock data file:' + mockFilePath);
     }
     return data;
 }

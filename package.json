@@ -1,21 +1,24 @@
 {
-  "name": "fis3-parser-gfe-freemarker",
-  "version": "1.0.0",
-  "description": "解析freemarker模板",
-  "homepage": "https://github.com/midday/fis3-parser-gfe-freemarker",
-  "main": "./index.js",
-  "keywords": [
-	"gfe",
-    "fis3",
-    "freemarker"
-  ],
-  "author": "midday<598535774@qq.com>",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/midday/fis3-parser-gfe-freemarker.git"
-  },
-  "dependencies": {
-    "freemarker.js": "1.2.1"
-  },
-  "license": "MIT"
+    "name": "fis3-parser-gfe-freemarker",
+    "version": "1.0.1",
+    "description": "解析freemarker模板",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/midday/fis3-parser-gfe-freemarker.git"
+    },
+    "keywords": [
+        "gfe",
+        "fis3",
+        "freemarker"
+    ],
+    "author": "midday",
+    "dependencies": {
+        "freemarker.js": "1.2.1"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/midday/fis3-parser-gfe-freemarker/issues"
+    },
+    "homepage": "https://github.com/midday/fis3-parser-gfe-freemarker#readme"
 }
