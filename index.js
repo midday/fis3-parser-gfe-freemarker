@@ -1,5 +1,4 @@
 var Freemarker = require('freemarker.js');
-var request = require('sync-request');
 var root = fis.project.getProjectPath();
 
 var fm = new Freemarker({
